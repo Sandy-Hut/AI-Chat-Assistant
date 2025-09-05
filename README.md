@@ -1,2 +1,2 @@
 # AI-Chat-Assistant
-A chatbot who helps user to get information from LLM 
+A chatbot which helps user to get information from LLM 
